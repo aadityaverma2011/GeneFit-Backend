@@ -3,7 +3,7 @@ Backend Setup for the Genefit Project
 
 What is GeneFit ? 
 
-Genetic Data is an unexplored treasure , which when delved deep into can prove to be an answer to a lot of problems. GeneFit utilises the goodness of the genetic Data with the basic medical information (age, gender, weight , height , activity level , medical history ) and provides suggestive lifestyle  advices . Not Only That it will utilise the provided genetic data and warn user about the possibilty of the occurence of any disease in the future so that the user can adapt to the preventive measures ASAP!
+Genetic Data is an unexplored treasure , which when delved deep into can prove to be the solution to a lot of problems. GeneFit utilises the goodness of the genetic Data with the basic medical information (age, gender, weight , height , activity level , medical history ) and provides suggestive lifestyle  advices . Not Only That it will utilise the provided genetic data and warn user about the possibilty of the occurence of any disease in the future so that the user can adapt to the preventive measures ASAP!
 
 The current implemented application Flow begins with the User Details Input Page where the user is required to enter the information as stated for an individual . 
 The information required are listed as follows : 
