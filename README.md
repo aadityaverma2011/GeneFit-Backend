@@ -23,6 +23,8 @@ The source folder consists of the "genetic_sequence_predictor.keras" file which 
 
 Model details for the enthusiasts: :)
 
+"[Model Training can be viewed Here..]([url(https://colab.research.google.com/drive/1LJsz3hROFIsHkNfcAOtmf3wCrLcLB4AD#scrollTo=bZwdUc56WGi9))) "
+
 Model Accuracy :
 ![image](https://github.com/user-attachments/assets/1b531687-665c-4938-beff-2729335ebe5a)
 
